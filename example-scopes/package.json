@@ -1,0 +1,6 @@
+{
+  "name": "fibe-scopes",
+  "version": "1.0.1",
+  "type": "module",
+  "main": "example.js"
+}
